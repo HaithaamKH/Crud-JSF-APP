@@ -10,6 +10,7 @@ This is a JSF (JavaServer Faces) CRUD (Create, Read, Update, Delete) web applica
 - **Server**: The application runs on a Tomcat server.
 
 ## Technologies Used
+- **Java**: The programming language used for backend development.
 - **JavaServer Faces (JSF)**: For building the user interface.
 - **MySQL**: For data storage.
 - **Tomcat Server**: As the web server.
